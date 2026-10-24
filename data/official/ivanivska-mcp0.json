@@ -1,0 +1,205 @@
+{
+  "source": {
+    "name": "КАТОТТГ",
+    "edition_date": "2026-07-07",
+    "url": "https://mindev.gov.ua/storage/app/sites/1/uploaded-files/kodifikator-07-07.xlsx"
+  },
+  "community": {
+    "name": "Іванівська",
+    "katottg": "UA74100110000030364",
+    "type": "community",
+    "region_code": "UA74000000000025378",
+    "district_code": "UA74100000000047140",
+    "region_name": "Чернігівська",
+    "district_name": "Чернігівський"
+  },
+  "villages": [
+    {
+      "name": "Іванівка",
+      "katottg": "UA74100110010097725",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Анисів",
+      "katottg": "UA74100110020034232",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Буди",
+      "katottg": "UA74100110030081490",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Вікторівка",
+      "katottg": "UA74100110040033999",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Драчівщина",
+      "katottg": "UA74100110050078926",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Друцьке",
+      "katottg": "UA74100110060055839",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Єньків",
+      "katottg": "UA74100110070089915",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Золотинка",
+      "katottg": "UA74100110080014278",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Количівка",
+      "katottg": "UA74100110090080359",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Красне",
+      "katottg": "UA74100110100022600",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Ладинка",
+      "katottg": "UA74100110110074938",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Лукашівка",
+      "katottg": "UA74100110120085520",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Підгірне",
+      "katottg": "UA74100110130069839",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Піски",
+      "katottg": "UA74100110140096912",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Скорінець",
+      "katottg": "UA74100110150034379",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Слобода",
+      "katottg": "UA74100110160089707",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    },
+    {
+      "name": "Ягідне",
+      "katottg": "UA74100110170054293",
+      "type": "village",
+      "community_katottg": "UA74100110000030364",
+      "region_code": "UA74000000000025378",
+      "region_name": "Чернігівська",
+      "district_code": "UA74100000000047140",
+      "district_name": "Чернігівський",
+      "community_name": "Іванівська"
+    }
+  ]
+}

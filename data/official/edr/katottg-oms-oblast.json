@@ -1,0 +1,218 @@
+[
+  {
+    "katottg": "UA26000000000069363",
+    "region": "Івано-Франківська",
+    "oms_name": "ІВАНО-ФРАНКІВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "00022510",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA07000000000024379",
+    "region": "Волинська",
+    "oms_name": "ВОЛИНСЬКА ОБЛАСНА РАДА",
+    "edrpou": "00022444",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA05000000000010236",
+    "region": "Вінницька",
+    "oms_name": "ВІННИЦЬКА ОБЛАСНА РАДА",
+    "edrpou": "00022438",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA12000000000090473",
+    "region": "Дніпропетровська",
+    "oms_name": "ДНІПРОПЕТРОВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "23928934",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA14000000000091971",
+    "region": "Донецька",
+    "oms_name": "ДОНЕЦЬКА ОБЛАСНА РАДА",
+    "edrpou": "24068072",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA18000000000041385",
+    "region": "Житомирська",
+    "oms_name": "ЖИТОМИРСЬКА ОБЛАСНА РАДА",
+    "edrpou": "13576948",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA21000000000011690",
+    "region": "Закарпатська",
+    "oms_name": "ЗАКАРПАТСЬКА ОБЛАСНА РАДА",
+    "edrpou": "25435963",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA23000000000064947",
+    "region": "Запорізька",
+    "oms_name": "ЗАПОРІЗЬКА ОБЛАСНА РАДА",
+    "edrpou": "20507422",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA32000000000030281",
+    "region": "Київська",
+    "oms_name": "КИЇВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "24572267",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA35000000000016081",
+    "region": "Кіровоградська",
+    "oms_name": "КІРОВОГРАДСЬКА ОБЛАСНА РАДА",
+    "edrpou": "22223982",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA44000000000018893",
+    "region": "Луганська",
+    "oms_name": "ЛУГАНСЬКА ОБЛАСНА РАДА",
+    "edrpou": "24046449",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA46000000000026241",
+    "region": "Львівська",
+    "oms_name": "ЛЬВІВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "22340506",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA48000000000039575",
+    "region": "Миколаївська",
+    "oms_name": "МИКОЛАЇВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "25696652",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA51000000000030770",
+    "region": "Одеська",
+    "oms_name": "ОДЕСЬКА ОБЛАСНА РАДА",
+    "edrpou": "25042882",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA53000000000028050",
+    "region": "Полтавська",
+    "oms_name": "ПОЛТАВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "22530614",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA56000000000066151",
+    "region": "Рівненська",
+    "oms_name": "РІВНЕНСЬКА ОБЛАСНА РАДА",
+    "edrpou": "21085816",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA59000000000057109",
+    "region": "Сумська",
+    "oms_name": "СУМСЬКА ОБЛАСНА РАДА",
+    "edrpou": "23826636",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA61000000000060328",
+    "region": "Тернопільська",
+    "oms_name": "ТЕРНОПІЛЬСЬКА ОБЛАСНА РАДА",
+    "edrpou": "24630220",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA63000000000041885",
+    "region": "Харківська",
+    "oms_name": "ХАРКІВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "24283333",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA65000000000030969",
+    "region": "Херсонська",
+    "oms_name": "ХЕРСОНСЬКА ОБЛАСНА РАДА",
+    "edrpou": "24121079",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA68000000000099709",
+    "region": "Хмельницька",
+    "oms_name": "ХМЕЛЬНИЦЬКА ОБЛАСНА РАДА",
+    "edrpou": "00022651",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA71000000000010357",
+    "region": "Черкаська",
+    "oms_name": "ЧЕРКАСЬКА ОБЛАСНА РАДА",
+    "edrpou": "24411541",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA73000000000044923",
+    "region": "Чернівецька",
+    "oms_name": "ЧЕРНІВЕЦЬКА ОБЛАСНА РАДА",
+    "edrpou": "25081241",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  },
+  {
+    "katottg": "UA74000000000025378",
+    "region": "Чернігівська",
+    "oms_name": "ЧЕРНІГІВСЬКА ОБЛАСНА РАДА",
+    "edrpou": "25618741",
+    "oms_type": "обласна рада",
+    "source": "ЄДР",
+    "match_method": "verified_name_and_edrpou"
+  }
+]

@@ -1,0 +1,194 @@
+{
+  "source": "OpenStreetMap / Nominatim",
+  "retrieved_at": "2026-10-11T00:15:47.938127+00:00",
+  "villages": [
+    {
+      "name": "Іванівка",
+      "katottg": "UA74100110010097725",
+      "latitude": 51.37962,
+      "longitude": 31.291809,
+      "osm_type": "node",
+      "osm_id": 337508843,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Анисів",
+      "katottg": "UA74100110020034232",
+      "latitude": 51.437641,
+      "longitude": 31.35635,
+      "osm_type": "relation",
+      "osm_id": 10181077,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Буди",
+      "katottg": "UA74100110030081490",
+      "latitude": 51.359371,
+      "longitude": 31.43051,
+      "osm_type": "node",
+      "osm_id": 337509106,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Вікторівка",
+      "katottg": "UA74100110040033999",
+      "latitude": 51.296268,
+      "longitude": 31.406553,
+      "osm_type": "node",
+      "osm_id": 337509772,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Драчівщина",
+      "katottg": "UA74100110050078926",
+      "latitude": 51.288287,
+      "longitude": 31.370327,
+      "osm_type": "node",
+      "osm_id": 337509752,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Друцьке",
+      "katottg": "UA74100110060055839",
+      "status": "matched",
+      "matches_found": 2,
+      "latitude": 51.314732,
+      "longitude": 31.15654,
+      "osm_type": "node",
+      "osm_id": 337509576,
+      "source": "OpenStreetMap / Nominatim",
+      "selection_method": "manual_review",
+      "osm_url": "https://www.openstreetmap.org/node/337509576"
+    },
+    {
+      "name": "Єньків",
+      "katottg": "UA74100110070089915",
+      "latitude": 51.478104,
+      "longitude": 31.371927,
+      "osm_type": "way",
+      "osm_id": 737114312,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Золотинка",
+      "katottg": "UA74100110080014278",
+      "status": "matched",
+      "matches_found": 3,
+      "latitude": 51.336021,
+      "longitude": 31.20838,
+      "osm_type": "node",
+      "osm_id": 337509362,
+      "source": "OpenStreetMap / Nominatim",
+      "selection_method": "manual_review",
+      "osm_url": "https://www.openstreetmap.org/node/337509362"
+    },
+    {
+      "name": "Количівка",
+      "katottg": "UA74100110090080359",
+      "status": "matched",
+      "matches_found": 2,
+      "latitude": 51.413147,
+      "longitude": 31.304073,
+      "osm_type": "way",
+      "osm_id": 113803627,
+      "source": "OpenStreetMap / Nominatim",
+      "selection_method": "manual_review",
+      "osm_url": "https://www.openstreetmap.org/way/113803627"
+    },
+    {
+      "name": "Красне",
+      "katottg": "UA74100110100022600",
+      "latitude": 51.291836,
+      "longitude": 31.25861,
+      "osm_type": "way",
+      "osm_id": 322361633,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Ладинка",
+      "katottg": "UA74100110110074938",
+      "status": "matched",
+      "matches_found": 2,
+      "latitude": 51.284519,
+      "longitude": 31.145901,
+      "osm_type": "node",
+      "osm_id": 337509881,
+      "source": "OpenStreetMap / Nominatim",
+      "selection_method": "manual_review",
+      "osm_url": "https://www.openstreetmap.org/node/337509881"
+    },
+    {
+      "name": "Лукашівка",
+      "katottg": "UA74100110120085520",
+      "latitude": 51.385799,
+      "longitude": 31.39378,
+      "osm_type": "node",
+      "osm_id": 337508761,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Підгірне",
+      "katottg": "UA74100110130069839",
+      "latitude": 51.470928,
+      "longitude": 31.407806,
+      "osm_type": "way",
+      "osm_id": 737117156,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Піски",
+      "katottg": "UA74100110140096912",
+      "latitude": 51.469921,
+      "longitude": 31.44253,
+      "osm_type": "way",
+      "osm_id": 737221590,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Скорінець",
+      "katottg": "UA74100110150034379",
+      "status": "matched",
+      "matches_found": 2,
+      "latitude": 51.315762,
+      "longitude": 31.307261,
+      "osm_type": "node",
+      "osm_id": 337509564,
+      "source": "OpenStreetMap / Nominatim",
+      "selection_method": "manual_review",
+      "osm_url": "https://www.openstreetmap.org/node/337509564"
+    },
+    {
+      "name": "Слобода",
+      "katottg": "UA74100110160089707",
+      "latitude": 51.335735,
+      "longitude": 31.372538,
+      "osm_type": "node",
+      "osm_id": 337509370,
+      "status": "matched",
+      "source": "OpenStreetMap / Nominatim"
+    },
+    {
+      "name": "Ягідне",
+      "katottg": "UA74100110170054293",
+      "status": "matched",
+      "matches_found": 2,
+      "latitude": 51.345119,
+      "longitude": 31.27685,
+      "osm_type": "node",
+      "osm_id": 337509245,
+      "source": "OpenStreetMap / Nominatim",
+      "selection_method": "manual_review",
+      "osm_url": "https://www.openstreetmap.org/node/337509245"
+    }
+  ]
+}

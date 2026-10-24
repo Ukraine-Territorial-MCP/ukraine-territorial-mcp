@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Runtime data
+data/feedback/
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+logs/
+*.log
+
+# Backups and temporary files
+*.path-backup
+*.backup*
+*.bak
+*.tmp
+backups/
+
+# Editor and OS
+.vscode/
+.idea/
+.DS_Store
