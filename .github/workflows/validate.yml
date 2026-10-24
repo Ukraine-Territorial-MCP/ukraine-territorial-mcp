@@ -1,0 +1,57 @@
+name: Validate MCP
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Validate Python syntax
+        run: python -m compileall -q ukraine_main_mcp.py national_mcp.py national_http_v3.py territorial_knowledge.py servers dataset_manager
+      - name: Verify catalog, tools, and HTTP application
+        run: |
+          python - <<'PY'
+          import asyncio
+          import inspect
+
+          import national_mcp
+          import national_http_v3
+          import ukraine_main_mcp
+
+          async def main():
+              result = ukraine_main_mcp.server.list_tools()
+              if inspect.isawaitable(result):
+                  result = await result
+              tools = result.tools if hasattr(result, "tools") else result
+              names = {tool.name for tool in tools}
+              required = {
+                  "get_catalog_info", "search_territories",
+                  "search_district_councils", "get_district_council",
+                  "list_district_councils", "search_local_councils",
+                  "get_local_council", "list_local_councils",
+              }
+              assert len(names) == 19, f"Expected 19 tools; got {len(names)}"
+              assert required <= names, f"Missing tools: {required - names}"
+              assert len(national_mcp.records) == 31744
+              assert national_http_v3.app is not None
+              print("PASS: 19 tools; 31,744 territories; HTTP app initialized")
+
+          asyncio.run(main())
+          PY
